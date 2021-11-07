@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Isaiah Tamayi
+- 👋 Hi, I’m Isaiah Tamayo
 - 👀 I am a FULL-STACK developer
 
 
