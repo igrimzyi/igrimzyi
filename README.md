@@ -3,7 +3,7 @@
 - :speech_balloon: Always open to connect and chat about ES6, React, Node, and various other scripting libraries and frameworks!
 
 
-![raw](https://user-images.githubusercontent.com/92245269/147205983-5818d31f-a32b-4769-8a83-b1cfec14c4c5.gif)
+- ![raw](https://user-images.githubusercontent.com/92245269/147205983-5818d31f-a32b-4769-8a83-b1cfec14c4c5.gif)
 
 
 <!---
