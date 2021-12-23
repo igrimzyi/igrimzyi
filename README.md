@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Isaiah Tamayo
 - 👀 I am a FULL-STACK developer
 
-![tenor](https://user-images.githubusercontent.com/92245269/147205908-e908defc-f305-4332-ad28-6e68b1ee7c98.gif)
+![raw](https://user-images.githubusercontent.com/92245269/147205983-5818d31f-a32b-4769-8a83-b1cfec14c4c5.gif)
+
 
 <!---
 igrimzyi/igrimzyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
