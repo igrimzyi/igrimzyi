@@ -8,7 +8,8 @@
  
  <h1>Connect With Me!</h1>
 https://www.linkedin.com/in/isaiah-tamayo-13b33b176/
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
 
 <!---
 igrimzyi/igrimzyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
