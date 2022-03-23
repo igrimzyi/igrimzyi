@@ -9,6 +9,7 @@
  <h1>Connect With Me!</h1>
 <a href="https://www.linkedin.com/in/isaiah-tamayo-13b33b176/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+ <img src"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/isaiah-tamayo-13b33b176/"/>
   </a> &nbsp; 
 <!---
 igrimzyi/igrimzyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
