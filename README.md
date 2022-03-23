@@ -3,9 +3,7 @@
 -:chart_with_upwards_trend: Learning everyday and keeping up to date with all Frontend and Backend technologies  <br/>
 -:speech_balloon: Always open to connect and chat about ES6, React, Node, and various other scripting libraries and frameworks!  <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=igrimzyi"/>
-
-<!--  ![raw](https://user-images.githubusercontent.com/92245269/147205983-5818d31f-a32b-4769-8a83-b1cfec14c4c5.gif) -->
+ ![raw](https://user-images.githubusercontent.com/92245269/147205983-5818d31f-a32b-4769-8a83-b1cfec14c4c5.gif)
  
  <h2>Connect With Me!</h2>
  <a href="https://www.linkedin.com/in/isaiah-tamayo-13b33b176/">
