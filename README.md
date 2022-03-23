@@ -32,6 +32,9 @@
  <a href="https://www.postman.com/">
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
  </a>
+ <a href="https://git-scm.com/">
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+ </a>
  
  <h2>My Languages!</h2>
  <a href="https://www.javascript.com/">
@@ -41,6 +44,8 @@
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
  </a>
 
+
+https://github-readme-streak-stats.herokuapp.com/?user=igrimzyi
 
   
 <!---
