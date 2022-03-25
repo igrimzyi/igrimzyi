@@ -34,6 +34,9 @@
  <a href="https://git-scm.com/">
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
  </a>
+ <a href="https://jwt.io/">
+ <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+ </a>
  
  <h2>My Languages!</h2>
  <a href="https://www.javascript.com/">
@@ -42,6 +45,7 @@
  <a href="https://www.python.org/">
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
  </a>
+ 
 
 
 
