@@ -38,6 +38,17 @@
  <a href="https://jwt.io/">
  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
  </a>
+ <a href="https://getbootstrap.com/">
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+ </a>
+ 
+ <h2>Cloud and Servers I Use!</h2>
+ <a href="https://www.heroku.com/">
+ <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+ </a>
+ <a href="https://aws.amazon.com/">
+ <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+ </a>
  
  <h2>My Languages!</h2>
  <a href="https://www.javascript.com/">
@@ -46,9 +57,7 @@
  <a href="https://www.python.org/">
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
  </a>
- <a href="https://getbootstrap.com/">
- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
- </a>
+ 
 
 
 
