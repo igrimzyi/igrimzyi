@@ -5,11 +5,11 @@
 
 <!--  ![raw](https://user-images.githubusercontent.com/92245269/147205983-5818d31f-a32b-4769-8a83-b1cfec14c4c5.gif) -->
  
- <h2>Connect With Me!</h2>
+ <h2 style="text-align:center;">Connect With Me!</h2>
  <a href="https://www.linkedin.com/in/isaiah-tamayo-13b33b176/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
- <h2>Tech & Frameworks I use!</h2>
+ <h2 style="text-align:center;">Tech & Frameworks I use!</h2>
  <a href="https://mongodb.com">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
  </a>
@@ -42,7 +42,7 @@
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  </a>
  
- <h2>Cloud and Servers I Use!</h2>
+ <h2 style="text-align:center;">Cloud and Servers I Use!</h2>
  <a href="https://www.heroku.com/">
  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
  </a>
@@ -50,7 +50,7 @@
  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
  </a>
  
- <h2>My Languages!</h2>
+ <h2 style="text-align:center;">My Languages!</h2>
  <a href="https://www.javascript.com/">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
  </a>
