@@ -42,8 +42,9 @@
  <a href="https://getbootstrap.com/">
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  </a>
+ <a href="https://ubuntu.com/desktop">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
- 
+ </a>
  
  <h2 style="text-align:center;">Cloud and Servers I Use!</h2>
  <a href="https://www.heroku.com/">
