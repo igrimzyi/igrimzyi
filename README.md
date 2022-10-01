@@ -45,6 +45,9 @@
  <a href="https://ubuntu.com/desktop">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
  </a>
+ <a href="https://www.nginx.com/">
+   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+  </a>
  
  <h2 style="text-align:center;">Cloud and Servers I Use!</h2>
  <a href="https://www.heroku.com/">
