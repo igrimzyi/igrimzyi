@@ -45,7 +45,9 @@
  <a href="https://ubuntu.com/desktop">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
  </a>
- 
+ <a href="https://www.mysql.com/">
+ <img src ='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
+ </a>
  <h2 style="text-align:center;">Cloud and Servers I Use!</h2>
  <a href="https://www.heroku.com/">
  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
