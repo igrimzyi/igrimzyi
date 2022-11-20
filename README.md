@@ -58,6 +58,8 @@
  <a href="https://www.nginx.com/">
    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
   </a>
+  <img src="[https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white](https://img.shields.io/badge/jenkins-%230db7ed.svg?style=for-the-badge&logo=jenkins&logoColor=red&color=black)"/>
+  
  
  <h2 style="text-align:center;">My Languages!</h2>
  <a href="https://www.javascript.com/">
