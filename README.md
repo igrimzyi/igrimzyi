@@ -64,7 +64,7 @@
  <a href="https://www.javascript.com/">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
  </a>
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=igrimzyi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![](https://raw.githubusercontent.com/igrimzyi/github-stats-transparent/output/generated/languages.svg)
  
