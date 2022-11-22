@@ -65,7 +65,7 @@
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
  </a>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igrimzyi&layout=compact&theme=transparent&text_color=#FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igrimzyi&layout=compact&theme=transparent&title_color=#FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
