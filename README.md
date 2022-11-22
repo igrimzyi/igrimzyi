@@ -60,10 +60,8 @@
   </a>
   
  
- <h2 style="text-align:center;">My Languages!</h2>
- <a href="https://www.javascript.com/">
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
- </a>
+ <h2 style="text-align:center; width:100%;">My Languages!</h2>
+ 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igrimzyi&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
