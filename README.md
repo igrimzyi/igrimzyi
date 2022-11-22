@@ -66,7 +66,7 @@
  </a>
  ![Github Stats](https://github-readme-stats.vercel.app/api?username=igrimzyi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/igrimzyi/github-stats-transparent/output/generated/languages.svg)
+[![Top Langs](https://raw.githubusercontent.com/igrimzyi/github-stats-transparent/output/generated/languages.svg)](https://github-readme-stats.vercel.app/api/top-langs/?username=igrimzyi&theme=transparent&layout=compact)
  
 
 
