@@ -64,9 +64,9 @@
  <a href="https://www.javascript.com/">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
  </a>
- <a href="https://www.python.org/">
+
 ![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
- </a>
+
  
 
 
