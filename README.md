@@ -71,6 +71,7 @@
  
  <h2 style="text-align:center; width:100%;">My Languages!</h2>
  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igrimzyi&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
  
 
 
