@@ -48,10 +48,13 @@
  <a href="https://www.mysql.com/">
  <img src ='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
  </a>
-  <a href="[https://www.mysql.com/](https://dotnet.microsoft.com/en-us/)">
+  <a href="https://dotnet.microsoft.com/en-us/">
  <img src ='https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white'/>
  </a>
- 
+ <a href="https://dotnet.microsoft.com/en-us/">
+ <img src =' https://img.shields.io/badge/Jenkins-14354C?style=for-the-badge&logo=Jenkins&logoColor=white'/>
+ </a>
+
  
 
  <h2 style="text-align:center;">Cloud and Servers I Use!</h2>
