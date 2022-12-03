@@ -70,16 +70,16 @@
   
  
  <h2 style="text-align:center; width:100%;">My Languages!</h2>
- <a href="https://www.heroku.com/">
+ <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
    </a>
- <a href="https://www.heroku.com/">
+ <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
    </a>
- <a href="https://www.heroku.com/">
+ <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
    </a>
- <a href="https://www.heroku.com/">
+ <a href="https://dev.to/envoy_/150-badges-for-github-pnk">
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
    </a>
  	
