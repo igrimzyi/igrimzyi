@@ -70,13 +70,11 @@
   
  
  <h2 style="text-align:center; width:100%;">My Languages!</h2>
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igrimzyi&layout=compact&theme=transparent&title_color=FFFFFF&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
- 
-
-
- 
-
+ <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+ 	
 
 
   
