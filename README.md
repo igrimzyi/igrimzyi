@@ -4,7 +4,7 @@
 -:speech_balloon: Always open to connect and chat about ES6, React, Node, and various other scripting libraries and frameworks!  <br/>
 
 <!--  ![raw](https://user-images.githubusercontent.com/92245269/147205983-5818d31f-a32b-4769-8a83-b1cfec14c4c5.gif) -->
- <div>
+ <div style="display:flex;align-items-center;">
  <h2 style="text-align:center;">Connect With Me!</h2>
  </div>
  <a href="https://www.linkedin.com/in/isaiah-tamayo-13b33b176/">
